@@ -1,0 +1,25 @@
+{
+  "name": "Demo",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@exponent/vector-icons": "~4.0.0",
+    "exponent": "^14.0.0",
+    "feathers": "^2.0.3",
+    "geolib": "^2.0.21",
+    "native-base": "^2.0.7",
+    "react": "~15.4.0",
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-14.0.0.tar.gz",
+    "feathers": "^2.0.3",
+    "feathers-authentication": "^1.0.2",
+    "feathers-errors": "^2.5.0",
+    "feathers-hooks": "^1.7.1",
+    "feathers-memory": "^1.0.1",
+    "feathers-rest": "^1.5.2",
+    "feathers-socketio": "^1.4.2",
+    "socket.io-client": "^1.7.2"    
+  }
+}

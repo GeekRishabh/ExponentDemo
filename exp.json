@@ -1,0 +1,31 @@
+{
+  "name": "Demo",
+  "description": "An empty new project",
+  "slug": "Demo",
+  "privacy": "public",
+  "sdkVersion": "14.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
+  "loading": {
+    "icon": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true,
+    "bundleIdentifier": "com.geekRishabh.Demo"
+  },
+   "android": {
+    "package": "com.geekRishabh.Demo",
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyAlXnLJ3caRGNoNexjvv6RTvoHGTSVxeB8"
+      }
+    }
+  }
+   
+}
